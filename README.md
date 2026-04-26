@@ -98,12 +98,12 @@
 <td width="40%" align="center">
 
 <b>Revenue Overview</b><br/>
-<img src="screenshots/dashboard-revenue-overview.png" width="100%" />
+<img src="https://raw.githubusercontent.com/shreya180720/trading-brokerage-revenue-intelligence/main/screenshots/dashboard-revenue-overview.png" width="100%" />
 
 <br/><br/>
 
 <b>Client Lifecycle</b><br/>
-<img src="screenshots/dashboard-client-lifecycle.png" width="100%" />
+<img src="https://raw.githubusercontent.com/shreya180720/trading-brokerage-revenue-intelligence/main/screenshots/dashboard-client-lifecycle.png" width="100%" />
 
 </td>
 <td width="60%">
