@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Sri Shreya Danda ✨
+#  Sri Shreya Danda 
 ### <sub>(Gagana)</sub>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=760&lines=Data+Analyst+%26+Business+Analyst;SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI+%E2%80%A2+Tableau;Financial+Analytics+%26+Revenue+Intelligence" />
@@ -15,7 +15,7 @@
 <h2 align="center">👩‍💻 About Me</h2>
 
 <p align="center">
-🎯 Data Analyst & Business Analyst focused on <b>Financial Analytics & Revenue Intelligence</b><br/>
+📈 Data Analyst & Business Analyst focused on <b>Financial Analytics & Revenue Intelligence</b><br/>
 📊 4+ years of experience transforming complex datasets into <b>actionable business insights</b><br/>
 ⚡ Strong in <b>SQL, Python, and Power BI</b> with enterprise analytics experience<br/>
 📈 Skilled in <b>data modeling, A/B testing, cohort analysis, and KPI dashboards</b><br/>
@@ -128,6 +128,7 @@ Designed a real-world financial analytics system to analyze brokerage revenue, t
 </table>
 
 ---
+[![](https://komarev.com/ghpvc/?username=shreya180720&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="center">
 <b>Always learning. Always building. Always adding value.</b> 💜
