@@ -134,7 +134,7 @@ Designed a real-world financial analytics system to analyze brokerage revenue, t
 </table>
 
 ---
-[![](https://komarev.com/ghpvc/?username=shreya180720&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=shreya180720&color=blueviolet)](https://visitcount.itsvg.in)
 
 <p align="center">
 <b>Always learning. Always building. Always adding value.</b> 💜
