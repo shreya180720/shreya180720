@@ -84,9 +84,6 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya180720&layout=compact&theme=midnight-purple&hide_border=false&title_color=A855F7"/>
 </p>
 
-<p align="senter>
-  ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=shreya180720&theme=tokyo-night&area=true&hide_border=true&color=A855F7&line=7C3AED&point=C084FC)
-</p>
 
 <p align="center">
 <img width="75%" src="https://streak-stats.demolab.com?user=shreya180720&theme=midnight-purple&hide_border=false&ring=A855F7&fire=F472B6&currStreakLabel=A855F7"/>
