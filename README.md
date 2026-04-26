@@ -1,23 +1,6 @@
 <div align="center">
 
-<div align="center">
-
-<h1 style="
-background: linear-gradient(90deg, #a855f7, #ec4899, #8b5cf6);
--webkit-background-clip: text;
-color: transparent;
-font-weight: 800;
-letter-spacing: 1px;
-text-shadow: 0 0 20px rgba(168,85,247,0.6);
-">
-✨ Sri Shreya Danda ✨
-</h1>
-
-<h3 style="color:#c084fc;">
-<sub>(Gagana)</sub>
-</h3>
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=42&duration=2500&pause=900&color=A855F7&center=true&vCenter=true&width=900&height=80&lines=Sri+Shreya+Danda;Gagana" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=760&lines=Data+Analyst+%26+Business+Analyst;SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI+%E2%80%A2+Tableau;Financial+Analytics+%26+Revenue+Intelligence" />
 
