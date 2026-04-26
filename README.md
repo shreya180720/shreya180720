@@ -16,6 +16,16 @@ Data Analyst & Business Analyst focused on Financial Analytics and Revenue Intel
 ### ✍️ Favourite Dev Quote as my Inspiration
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
+## 🚀 Featured Projects
+### Trading & Brokerage Revenue Intelligence System
+Designed a real-world financial analytics system to analyze brokerage revenue, trader behavior, and customer retention.
+
+- Built SQL-based data models to track transactions, customer segments, and revenue drivers  
+- Developed Power BI dashboards to visualize trading patterns and performance metrics  
+- Identified high-value traders contributing majority of revenue  
+- Analyzed dormant accounts and recommended retention strategies  
+- Delivered business insights to improve trading activity and operational efficiency  
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shreya180720&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
