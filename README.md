@@ -97,7 +97,7 @@
 <tr>
 <td width="40%" align="center">
 
-<img src="https://raw.githubusercontent.com/shreya180720/trading-brokerage-revenue-intelligence/main/assets/dashboard-preview.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/shreya180720/trading-brokerage-revenue-intelligence/main/screenshots/dashboard-revenue-overview.png" width="100%"/>
 
 </td>
 <td width="60%">
