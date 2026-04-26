@@ -2,11 +2,14 @@
 
 <div align="center">
 
-<h1 style="color:#ffffff; text-shadow: 
-0 0 8px rgba(168,85,247,0.8), 
-0 0 16px rgba(168,85,247,0.6), 
-0 0 32px rgba(139,92,246,0.4); 
-font-weight:800; letter-spacing:1px;">
+<h1 style="
+background: linear-gradient(90deg, #a855f7, #ec4899, #8b5cf6);
+-webkit-background-clip: text;
+color: transparent;
+font-weight: 800;
+letter-spacing: 1px;
+text-shadow: 0 0 20px rgba(168,85,247,0.6);
+">
 ✨ Sri Shreya Danda ✨
 </h1>
 
