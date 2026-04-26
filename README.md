@@ -1,83 +1,117 @@
+<div align="center">
 
-<h1 align="center">
-  ✨ Sri Shreya Danda ✨
-</h1>
+# ✨ Sri Shreya Danda ✨
+### <sub>(Gagana)</sub>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=760&lines=Data+Analyst+%26+Business+Analyst;SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI+%E2%80%A2+Tableau;Financial+Analytics+%26+Revenue+Intelligence" />
+
+🎓 MS Artificial Intelligence and Business Analytics @ University of South Florida  
+📍 Tampa, FL | 💼 Open to Full-Time Opportunities | 📅 Available – June 2026
+
+</div>
+
+---
+
+<h2 align="center">👩‍💻 About Me</h2>
 
 <p align="center">
-  <b>Data Analyst & Business Analyst</b>  
-  <br/>
-  SQL • Python • Power BI • Tableau • Financial & Business Analytics
+🎯 Data Analyst & Business Analyst focused on <b>Financial Analytics & Revenue Intelligence</b><br/>
+📊 4+ years of experience transforming complex datasets into <b>actionable business insights</b><br/>
+⚡ Strong in <b>SQL, Python, and Power BI</b> with enterprise analytics experience<br/>
+📈 Skilled in <b>data modeling, A/B testing, cohort analysis, and KPI dashboards</b><br/>
+💡 Passionate about solving real-world business problems using <b>data-driven decision making</b>
+</p>
+
+---
+
+<h2 align="center">🌐 Socials</h2>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/srishreya-danda-2b27141a2/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<h3 align="center">📊 Data Analytics & Visualization</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</p>
+
+<h3 align="center">🐍 Programming & Libraries</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
+</p>
+
+<h3 align="center">☁️ Data Platforms & Cloud</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+<h3 align="center">⚙️ Tools & Workflow</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white"/>
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shreya180720&show_icons=true&theme=midnight-purple&hide_border=false&title_color=A855F7&icon_color=A855F7"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya180720&layout=compact&theme=midnight-purple&hide_border=false&title_color=A855F7"/>
 </p>
 
 <p align="center">
-  🎓 MS Artificial Intelligence and Business Analytics @ University of South Florida  
-  📍 Tampa, FL | 💼 Open to Full-Time Opportunities | 📅 Available – June 2026
+<img width="75%" src="https://streak-stats.demolab.com?user=shreya180720&theme=midnight-purple&hide_border=false&ring=A855F7&fire=F472B6&currStreakLabel=A855F7"/>
 </p>
 
 <p align="center">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<i>Turning data into insights, and insights into impact. 🚀</i>
 </p>
 
-
 ---
 
-## 👩‍💻 About Me
+<h2 align="center">⭐ Featured Project</h2>
 
-- 🎯 Data Analyst & Business Analyst focused on **Financial Analytics & Revenue Intelligence**  
-- 📊 4+ years of experience transforming complex datasets into **actionable business insights**  
-- ⚡ Strong in **SQL, Python, and Power BI** with enterprise analytics experience  
-- 📈 Skilled in **data modeling, A/B testing, cohort analysis, and KPI dashboards**  
-- 💡 Passionate about solving real-world business problems using **data-driven decision making**  
+<table align="center">
+<tr>
+<td width="40%" align="center">
 
----
+<img src="https://raw.githubusercontent.com/shreya180720/trading-brokerage-revenue-intelligence/main/assets/dashboard-preview.png" width="100%"/>
 
+</td>
+<td width="60%">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srishreya-danda-2b27141a2/) 
+<h3>Trading & Brokerage Revenue Intelligence System</h3>
 
-## 💻 Tech Stack:
+<p>
+<img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Financial_Analytics-00897B?style=flat"/>
+<img src="https://img.shields.io/badge/Data_Modeling-7E22CE?style=flat"/>
+</p>
 
-### 📊 Data Analytics & Visualization
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-
----
-
-### 🐍 Programming & Libraries
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=flat&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=flat&logo=matplotlib&logoColor=black)
-
----
-
-### ☁️ Data Platforms & Cloud
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-
----
-
-### ⚙️ Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=flat&logo=jira&logoColor=white)
-  
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=shreya180720&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=shreya180720&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=shreya180720&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-### ✍️ Favourite Dev Quote as my Inspiration
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-## 🚀 Featured Projects
-### Trading & Brokerage Revenue Intelligence System
 Designed a real-world financial analytics system to analyze brokerage revenue, trader behavior, and customer retention.
 
 - Built SQL-based data models to track transactions, customer segments, and revenue drivers  
@@ -85,11 +119,16 @@ Designed a real-world financial analytics system to analyze brokerage revenue, t
 - Identified high-value traders contributing majority of revenue  
 - Analyzed dormant accounts and recommended retention strategies  
 - Delivered business insights to improve trading activity and operational efficiency  
+<a href="https://github.com/shreya180720/trading-brokerage-revenue-intelligence">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shreya180720&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</td>
+</tr>
+</table>
 
 ---
-[![](https://komarev.com/ghpvc/?username=shreya180720&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+<p align="center">
+<b>Always learning. Always building. Always adding value.</b> 💜
+</p>
