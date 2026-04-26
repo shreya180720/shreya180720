@@ -5,7 +5,6 @@
 <img src="https://img.shields.io/badge/Gagana-A855F7?style=for-the-badge&logoColor=white" height="35"/>
 </h1>
 
-🌐 <a href="https://dandasrishreya.in" target="_blank"><b>dandasrishreya.in</b></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=760&lines=Data+Analyst+%26+Business+Analyst;SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI+%E2%80%A2+Tableau;Financial+Analytics+%26+Revenue+Intelligence" />
 
@@ -33,6 +32,12 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/srishreya-danda-2b27141a2/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+<p align="center">
+<a href="https://dandasrishreya.in">
+<img src="https://img.shields.io/badge/Portfolio-dandasrishreya.in-A855F7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 </p>
 
