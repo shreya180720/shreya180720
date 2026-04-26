@@ -1,12 +1,13 @@
 <div align="center">
 
-<p align="center">
-<img src="https://img.shields.io/badge/Sri%20Shreya%20Danda-A855F7?style=for-the-badge&logoColor=white"/>
-</p>
+
+#  Sri Shreya Danda 
 
 <p align="center">
-<sub>(Gagana)</sub>
+<img src="https://img.shields.io/badge/(Gagana)-A855F7?style=flat-square&logoColor=white"/>
 </p>
+
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=760&lines=Data+Analyst+%26+Business+Analyst;SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI+%E2%80%A2+Tableau;Financial+Analytics+%26+Revenue+Intelligence" />
 
