@@ -5,8 +5,6 @@
 </h1>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=760&lines=Data+Analyst+%26+Business+Analyst;SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI+%E2%80%A2+Tableau;Financial+Analytics+%26+Revenue+Intelligence" />
-
 🎓 MS Artificial Intelligence and Business Analytics @ University of South Florida  
 📍 Tampa, FL | 💼 Open to Full-Time Opportunities 
 
