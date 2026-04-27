@@ -2,7 +2,6 @@
 
 <h1>
 <strong>𝗦𝗿𝗶 𝗦𝗵𝗿𝗲𝘆𝗮 𝗗𝗮𝗻𝗱𝗮</strong>
-<img src="https://img.shields.io/badge/Gagana-A855F7?style=for-the-badge&logoColor=white" height="35"/>
 </h1>
 
 
